@@ -28,7 +28,7 @@ export default function Home() {
         "WebSockets",
         "Tailwind CSS",
       ],
-      image: "/IntelliQuiz.png",
+      image: "/intelliquiz2.png",
       liveLink: "https://intelliquiz-main-4v98.vercel.app/",
       githubLink: "https://github.com/OmkarKathile007/Intelliquiz_Main",
     },
